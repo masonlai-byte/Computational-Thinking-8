@@ -1,0 +1,5 @@
+print ("My name is Mason")
+print ("I like baseball")
+name = input("what sport do you like? ")
+print(f"Oh nice, i like {name} to!")
+print ("Are you good at it")

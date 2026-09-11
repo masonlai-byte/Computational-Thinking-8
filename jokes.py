@@ -1,0 +1,13 @@
+print("what do you call a cow with no legs")
+input()
+print("grounded beef!")
+print("HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA got you HAHAHAHAHAHAHAHAHAHAHHAHAHAHAHAHHHAHAHAHAHAHAHA")
+print("do you want another joke?")
+answer = input()
+if answer == "yes":
+    print ("What do you call a pig that does karate?")
+    input()
+    print("A pork chop! HAHAHAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA")
+print("wanna hear another one?")
+input()
+print("to bad HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA")
