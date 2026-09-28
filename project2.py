@@ -34,7 +34,7 @@ else:
     movie_genre = input("No problem at all! Do you want to watch an action movie, a comedy, or horror? ").lower()
     if movie_genre in ["action", "comedy"]:
         print(f"Awesome choice! no
-         will pop some popcorn and get a great {movie_genre} movie ready.")
+         ("will pop some popcorn and get a great {movie_genre} movie ready.")
     elif movie_genre == "horror":
         print("Spooky choice! Let's lock the doors and turn off all the lights.")
     else:
